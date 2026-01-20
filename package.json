@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"No tests\" && exit 0",
-    "postinstall": "node -e "require('fs').writeFileSync('Hello_hack.txt', 'Hello Hack')""
+    "postinstall": "node -e \"require('fs').writeFileSync('yohan.txt', 'yohan?')\""
   },
   "keywords": [],
   "license": "MIT"
